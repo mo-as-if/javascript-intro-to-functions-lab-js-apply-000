@@ -22,12 +22,12 @@ function sayHiToGrandma(string){
     string = lowercase
     return string
   }
-
-  var uppercase = 'HELLO'
-  string.toUpperCase() === uppercase
-  string = "YES INDEED!"
-
-  return result
+  //
+  // var uppercase = 'HELLO'
+  // string.toUpperCase() === uppercase
+  // string = "YES INDEED!"
+  //
+  // return result
 
   // return string
   // var mixedCase = 'I love you, Grandma.'
